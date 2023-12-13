@@ -1,11 +1,5 @@
-// Author: Ashley Muka
-// Assignment Title: Program 2
-// Assignment Description:create table
-// Due Date:1/20/2023
-// Date Created:1/20/2023
-// Date Last Modified:1/20/2023
 
-
+// Description:Write a program that displays the following table
 
 #include <iostream>
 
